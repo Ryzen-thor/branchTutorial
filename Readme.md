@@ -4,4 +4,8 @@ Review the Readme by pull, now I am pushing themy local changes to remote repo.
 
 Now I am adding the text in Readme in testing branch. This will diff the master with testing branch. Then I will change other files in master branch to do ort merge.
 
+
 Adding this text from master branch in Readme to create merge conflict. Same changes I will do on testing branch.
+
+So now adding text from testingBranch same way did for mster branch. Now this will create the merge conflict"
+
