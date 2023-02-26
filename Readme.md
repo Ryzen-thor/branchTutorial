@@ -3,3 +3,5 @@ Adding one more line to practice git pull. As suppose this edit is done by diffe
 Review the Readme by pull, now I am pushing themy local changes to remote repo.
 
 Now I am adding the text in Readme in testing branch. This will diff the master with testing branch. Then I will change other files in master branch to do ort merge.
+
+So now adding text from testingBranch same way did for mster branch. Now this will create the merge conflict"
