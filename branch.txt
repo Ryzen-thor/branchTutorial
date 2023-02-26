@@ -1,1 +1,3 @@
 This is text file for branch
+
+Now I am adding the text in branch.txt to create divergence between master and testing branch so that I can perform ort merge i.e. three way merge
